@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Virtualmet", "Virtualmet\Virtualmet.vcxproj", "{346B9AB1-8944-4C31-B741-BF42A67204A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Debug|x64.ActiveCfg = Debug|x64
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Debug|x64.Build.0 = Debug|x64
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Debug|x86.Build.0 = Debug|Win32
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Release|x64.ActiveCfg = Release|x64
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Release|x64.Build.0 = Release|x64
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Release|x86.ActiveCfg = Release|Win32
+		{346B9AB1-8944-4C31-B741-BF42A67204A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7AF2A29-3F49-4D3D-A978-7C44EF315E02}
+	EndGlobalSection
+EndGlobal
